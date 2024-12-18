@@ -16,7 +16,6 @@
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandoncruz3" alt="Brandon's Streaks" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandoncruz3&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Brandon's Languages" />
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brandoncruz3&show_icons=true" alt="Brandon's GitHub Stats" />
 </br>
